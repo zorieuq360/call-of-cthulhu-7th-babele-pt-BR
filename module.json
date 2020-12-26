@@ -1,0 +1,30 @@
+{
+  "name": "call-of-cthulhu-7th-babele-pt-BR",
+  "title": "Call of Cthulhu 7th Babele Portuguese",
+  "description": "Tradução do sistema Call of Cthulhu 7th por HavlockV/CoC7-FoundryVTT para Português (Brasil) usando Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) portuguese translation using Babele",
+  "version": "0.47.2",
+  "minimumCoreVersion" : "0.7.0",
+  "compatibleCoreVersion":"0.7.8",
+  "author": "Vittor Guidoni (Viriato139ac), Geike",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.20"
+    }
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "pt",
+      "name": "Portuguese",
+      "path": "pt-BR.json"
+    }
+  ],
+  "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es",
+  "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json",
+  "download": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es/archive/master.zip"
+}
