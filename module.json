@@ -19,8 +19,8 @@
   "packs": [],
   "languages": [
     {
-      "lang": "pt",
-      "name": "Portuguese",
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
       "path": "pt-BR.json"
     }
   ],
