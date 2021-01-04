@@ -500,4 +500,22 @@
 "SETTINGS.TenDieBonusHint": "Quando usar DsN, escolha a cor do dado bônus de dezenas. (deixe vazio para usar o padrão do jogador)",
 "SETTINGS.TenDiePenalty": "[DsN] Cor de Dado de Penalidade de Dezenas",
 "SETTINGS.TenDiePenaltyHint": "Quando usar DsN, escolha a cor do dado de penalidade de dezenas. (deixe vazio para usar o padrão do jogador)"
+"SETTINGS.OverrideSheetArtwork": "Trocar Arte da Ficha",
+"SETTINGS.OverrideSheetArtworkHint": "!!NECESSÁRIO REINICIAR!! dá acesso às configurações avançadas da ficha. Deixe vazio para padrão",
+"SETTINGS.ArtWorkSheetBackground": "Background da Ficha",
+"SETTINGS.ArtWorkSheetBackgroundHint": "digite 'null' para remover background",
+"SETTINGS.ArtworkSheetImage": "Imagem do Personagem",
+"SETTINGS.ArtworkSheetImageHint": "digite 'null' para remover imagem",
+"SETTINGS.ArtworkFrontColor": "Cor Principal",
+"SETTINGS.ArtworkFrontColorHint": "Usada para todos os elementos",
+"SETTINGS.ArtworkBackgroundColor": "Cor Secundária",
+"SETTINGS.ArtworkBackgroundColorHint": "Usada para background e valores",
+"SETTINGS.ArtworkInteractiveColor": "Cor Interativa",
+"SETTINGS.ArtworkInteractiveColorHint": "Usada para eventos interativos/roláveis",
+"SETTINGS.ArtworkFixedSkillLength": "Limitar Tamanho da Perícia",
+"SETTINGS.ArtworkFixedSkillLengthHint": "Ficha mais compacta ao diminuir tamanho do nome de perícias",
+"SETTINGS.ArtworkMainFont": "Fonte Principal",
+"SETTINGS.ArtworkMainFontHint": "Usada para títulos e elementos",
+"SETTINGS.ArtworkCursiveFont": "Fonte Cursiva",
+"SETTINGS.ArtworkCursiveFontHint": "Usada para valores"
 }
