@@ -15,7 +15,7 @@
 * (Optional) Install/Update _Translation: Brazilian Portuguese [Core]_ module from Foundry's module manager:
 [Module Url](https://foundryvtt.com/packages/ptBR-core/)
 * Install/Update _Translation: Brazilian Portuguese (Call of Cthulhu 7th)_ module from Foundry's module manager:
-[Module Url](Awaiting Approval)
+[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-pt-BR/)
 * Inside the Game World, at _Configuration/Manage Modules_ activate Babele and both translations.
 * At _Configuration/Setup_ change language to Portuguese.
 ----
@@ -26,7 +26,7 @@
 * (Opcional) Instale/Atualize o módulo _Brazilian Portuguese [Core]_ usando o gestor de módulos do Foundry:
 [Module Url](https://foundryvtt.com/packages/ptBR-core/)
 * Instale/Atualize o módulo _Translation: Spanish (Call of Cthulhu 7th)_ usando o gestor de módulos do Foundry:
-[Module Url](Aguardando Aprovamento)
+[Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-pt-BR/)
 * Entre no Mundo do Jogo, _Configuración/Administrar Módulos_ ative o Babele e as duas traduções.
 * Nas _Configuración/Configurar Ajustes_ troque o idioma para Português (Brasil).
 
