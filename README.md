@@ -44,6 +44,10 @@
 
 ## Versões
 
+version 0.2 :
+
+* Added new text for sheet costumization.
+
 version 0.1 :
 
 * First working version.
