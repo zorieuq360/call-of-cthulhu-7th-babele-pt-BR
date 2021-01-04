@@ -4,7 +4,7 @@
   "description": "Tradução do sistema Call of Cthulhu 7th por HavlockV/CoC7-FoundryVTT para Português (Brasil) usando Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) portuguese translation using Babele",
   "version": "0.4.7",
   "minimumCoreVersion" : "0.7.0",
-  "compatibleCoreVersion":"0.7.8",
+  "compatibleCoreVersion":"0.7.9",
   "author": "Vittor Guidoni Marianelli (Vittinho#8930)",
   "esmodules": ["babele-register.js"],
   "scripts": [],
@@ -13,7 +13,7 @@
     {
       "name": "babele",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "1.20"
+      "version": "1.22"
     }
   ],
   "packs": [],
