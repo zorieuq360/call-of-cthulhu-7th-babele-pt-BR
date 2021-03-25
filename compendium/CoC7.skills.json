@@ -223,17 +223,17 @@
 		},
 		{
 			"id": "Language (Any)",
-			"name": "Outras Linguas (Genérico)",
+			"name": "Outra Língua",
 			"description": ""
 		},
 		{
 			"id": "Language (Other)",
-			"name": ">>>Linguagem (Outra)",
+			"name": "Outra Língua",
 			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Consulte o manual de Call of Cthulhu 7ª Edição.</span></p>"
 		},
 		{
 			"id": "Language (Own)",
-			"name": "Lingua Própria",
+			"name": "Língua Nativa",
 			"description": "<p>Consulte o manual de Call of Cthulhu 7ª Edição.</p>"
 		},
 		{
@@ -283,7 +283,7 @@
 		},
 		{
 			"id": "Natural World",
-			"name": "Natureza",
+			"name": "Mundo Natural",
 			"description": "<p>Consulte o manual de Call of Cthulhu 7ª Edição.</p>"
 		},
 		{
@@ -358,7 +358,7 @@
 		},
 		{
 			"id": "Sleight of Hand",
-			"name": "Truque de Mãos",
+			"name": "Prestidigitação",
 			"description": "<p>Consulte o manual de Call of Cthulhu 7ª Edição.</p>"
 		},
 		{
